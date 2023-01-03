@@ -1,5 +1,11 @@
 Project based on the learning resources here: https://scrimba.com/playlist/pYkgpAP
 
+based on code given from the above tutorial, tasked to add features listed below:
+
+synt notes with localStorage
+Add Note summary Titles
+Move modified otes to the top of the list
+Delete notes
 
 
 # Getting Started with Create React App
